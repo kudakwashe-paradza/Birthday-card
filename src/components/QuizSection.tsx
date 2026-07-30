@@ -48,7 +48,7 @@ export default function QuizSection() {
       <div className="relative z-10 mb-8 flex items-center gap-3 text-[#F4EDE4]">
         <Stethoscope className="h-5 w-5 text-[#B33A3A]" />
         <h2 className="font-[Cormorant_Garamond] text-3xl font-semibold tracking-wide sm:text-4xl">
-          How Well Do You Know Yourself?
+          Play a game
         </h2>
       </div>
       <p className="relative z-10 mb-8 font-[Inter] text-sm text-[#F4EDE4]/50">

@@ -126,10 +126,10 @@ export default function QuizSection() {
               </p>
               <p className="mt-3 font-[Inter] text-sm text-[#F4EDE4]/60">
                 {score === total
-                  ? "Perfect — you know yourself better than anyone. Future doctor diagnostic skills: confirmed."
+                  ? "Perfect — you know your stuff"
                   : score >= total / 2
-                    ? "Not bad! You clearly know yourself well — and you're honest about it."
-                    : "Hey, even doctors miss a few. The important thing is you showed up."}
+                    ? "Not bad!."
+                    : "🫣😭."}
               </p>
               <button
                 onClick={restart}

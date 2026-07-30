@@ -7,7 +7,7 @@
 // ADD YOUR FRIEND'S NAME HERE
 export const birthdayPerson = {
   name: "Elijah",
-  age: 22,
+  age: 20,
   // ADD A SHORT TAGLINE — appears under the name on the intro screen
   tagline: "Future doctor, lifelong best friend.",
 };
@@ -66,6 +66,11 @@ export const galleryPhotos: { src: string; caption: string }[] = [
   {
     src: "/Snapchat-747938389.jpg",
     caption: "Unforgettable moments",
+  },
+  {
+    src: "1.jpeg",
+    caption: "Karate kid", 
+
   }
 ];
 
@@ -127,16 +132,14 @@ export const twentyTwoThings: string[] = [
   "Your Charisma, it gives Adolf Hitler.",
   "You know every word to that one song and will sing it badly at full volume.",
   "Your resourcefulness.",
-  "You have a secret sweet tooth you think nobody knows about. We all know.",
-  "You once helped a stranger on a train who was dizzy. You didn't even hesitate.",
-  "You are terrible at directions but will never admit it or ask for help.",
+  "You are so cool.",
   "You make the people around you feel like they matter. That is rare and it is you.",
   "You dream big and then actually do the work. Most people only do the first part.",
   "You are going to be the kind of doctor people write thank-you cards to.",
   "Your playlist.",
   "You show up. Every single time. Without being asked.",
   "You.",
-  "You are my favorite person to celebrate. Today. Happy 22nd.",
+  "You are my favorite person to celebrate. Today. Happy 20th.",
 ];
 
 // ADD YOUR CLOSING MESSAGE HERE

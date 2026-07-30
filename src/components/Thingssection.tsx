@@ -19,7 +19,7 @@ export default function ThingsSection() {
         <div className="mb-12 flex flex-col items-center text-center">
           <Sparkles className="mb-3 h-6 w-6 text-[#C9A227]" />
           <h2 className="font-[Cormorant_Garamond] text-3xl font-semibold tracking-wide text-[#1B2A4E] sm:text-4xl">
-            22 Things About You
+            20 Things About You
           </h2>
           <p className="mt-3 max-w-md font-[Inter] text-sm text-[#1B2A4E]/60">
             One for every year — the small, specific reasons you matter.

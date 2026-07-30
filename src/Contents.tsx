@@ -9,7 +9,7 @@ export const birthdayPerson = {
   name: "Elijah",
   age: 20,
   // ADD A SHORT TAGLINE — appears under the name on the intro screen
-  tagline: "Future doctor, lifelong best friend.",
+  tagline: "Future doctor.",
 };
 
 // ADD YOUR LETTER TEXT HERE

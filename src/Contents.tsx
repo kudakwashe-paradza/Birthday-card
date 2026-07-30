@@ -16,7 +16,7 @@ export const birthdayPerson = {
 // Each string in the array is one paragraph. Add as many as you like.
 export const letterParagraphs: string[] = [
   "Happy Birthday!",
-  "Happy birthday all the way from Kenya! I honestly can't believe it's already that time of the year again. Happy 22nd birthday to the amazing man you're becoming.",
+  "Happy birthday all the way from Kenya! I honestly can't believe it's already that time of the year again. Happy 20th birthday to the amazing man you're becoming.",
   "Watching you grow has been one hell of a journey, and seeing who you are turning into is genuinely beautiful. It's too bad I'm not around to experience this next important phase of your life with you in person, but I bet you're surrounded by great company today celebrating you.",
   "I also couldn't pass up the opportunity to flex a little—building this site for you was my way of showing off a new skill I've been learning lately! I figured why just send a standard text when I could actually code something unique for your 22nd?",
   "Even with the distance and how complicated things can be sometimes, I wanted to take a moment to tell you that I care about you a lot. I am constantly rooting for you, cheering you on from afar, and excited to see you conquer whatever comes next in this new chapter.",

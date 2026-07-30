@@ -52,7 +52,7 @@ export default function QuizSection() {
         </h2>
       </div>
       <p className="relative z-10 mb-8 font-[Inter] text-sm text-[#F4EDE4]/50">
-        A little quiz about you — let's see how you do.
+        A memory jogger — let's see how you do.
       </p>
 
       <div className="relative z-10 w-full max-w-xl">

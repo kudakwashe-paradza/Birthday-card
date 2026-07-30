@@ -14,7 +14,7 @@ export default function Nav({ musicOn, onToggleMusic }: NavProps) {
       <nav className="pointer-events-auto w-full max-w-2xl bg-gray-900/80 backdrop-blur-md border border-gray-700/50 rounded-full px-5 py-2.5 shadow-2xl flex justify-between items-center text-white">
         {/* Title / Logo */}
         <span className="font-extrabold text-sm tracking-wider text-yellow-400 pl-1">
-          LEVEL 22
+          LEVEL 20
         </span>
 
         {/* Desktop Navigation Links */}

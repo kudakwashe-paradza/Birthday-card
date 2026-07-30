@@ -78,7 +78,7 @@ export default function IntroSection({ onEnter }: { onEnter: () => void }) {
         whileTap={{ scale: 0.96 }}
         className="relative z-10 mt-10 flex flex-col items-center gap-2 font-[Inter] text-xs uppercase tracking-[0.3em] text-[#C9A227] transition-colors hover:text-[#E8B931]"
       >
-        Open your gift
+        Open Up
         <motion.span
           animate={{ y: [0, 6, 0] }}
           transition={{ duration: 1.6, repeat: Infinity, ease: 'easeInOut' }}
